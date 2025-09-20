@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sweet="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/material_timepicker_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <androidx.constraintlayout.helper.widget.Flow android:orientation="vertical" android:id="@+id/material_clock_display_and_toggle" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="20dp" sweet:constraint_referenced_ids="material_clock_display,material_clock_period_toggle" sweet:flow_verticalGap="@dimen/material_clock_period_toggle_vertical_gap" sweet:layout_constraintBottom_toBottomOf="0" sweet:layout_constraintStart_toStartOf="0" sweet:layout_constraintTop_toTopOf="0"/>
+    <include android:id="@+id/material_clock_display" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/material_clock_display"/>
+    <include android:id="@+id/material_clock_period_toggle" android:layout_width="0dp" android:layout_height="wrap_content" layout="@layout/material_clock_period_toggle_land"/>
+    <com.google.android.material.timepicker.ClockFaceView android:id="@+id/material_clock_face" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/clock_face_margin_start" sweet:layout_constraintStart_toEndOf="@+id/material_clock_display_and_toggle" sweet:layout_constraintTop_toTopOf="0"/>
+</merge>

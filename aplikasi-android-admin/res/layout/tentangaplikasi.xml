@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sweet="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/bgtentangaplikasi" android:padding="10dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/rounded_kotak_info_wisata" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp">
+        <TextView android:textSize="30dp" android:textStyle="bold" android:textColor="@color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Si Sampolawa" android:justificationMode="1"/>
+        <TextView android:textColor="@color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Aplikasi ini merupakan aplikasi aplikasi yang di buat untuk melakukan navigasi pariwisata di Kecamatan Sampolawa dengan menggunakanteknologi Near Field Communication (NFC)." android:justificationMode="1"/>
+        <TextView android:textColor="@color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="100dp" android:text="Contact Us :\10 HP / WA : +62 082259394735\10 E-Mail : ldmurizal7@gmail.com" android:justificationMode="1"/>
+    </LinearLayout>
+    <TextView android:textSize="20dp" android:textColor="@color/black" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="300dp" android:text="©Copyrigth 2024"/>
+</LinearLayout>
