@@ -15,21 +15,21 @@ Menu yang terdapat pada website ini yaitu dashboard, data wisata, kategori wisat
 
 -Menu yang terdapat pada aplikasi wisatawan yaitu baca tag NFC, informasi wisata dan peta atau rute wisata.
 
-# Teknologi Pembuatan Website Admin
+## Teknologi Pembuatan Website Admin
 - Frontend : HTML, CSS, Bootstrap 5
 - Backend : Laravel 10
 - Database : MySQL
 - Code Editor : Visual Studio Code
 
-# Teknologi Pembuatan Aplikasi Android
+## Teknologi Pembuatan Aplikasi Android
 - Backend : Java
 - Code Editor : IDE Android Stdudio
 
-# Spefikasi Smartphone Untuk Instal Aplikasi Android
+## Spefikasi Smartphone Untuk Instal Aplikasi Android
 - Sistem Operasi Android 13 (Tiramisu)
 - Memiliki Teknologi NFC
 
-# Spesifikasi Tag NFC yang digunakan
+## Spesifikasi Tag NFC yang digunakan
 - Nama perangkat : Tag NFC Universal NTAG 213
 - Bahan : Stiker bening transparan dan anti air
 - Jarak Deteksi Antena : 1 - 10 Cm
