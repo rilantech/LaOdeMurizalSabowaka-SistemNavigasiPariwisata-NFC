@@ -8,13 +8,13 @@ Menu yang terdapat pada website ini yaitu dashboard, data wisata, kategori wisat
 
 2. Aplikasi Android Admin dan Wisatawan :
    
--Aplikasi android yang digunakan oleh admin untuk memindai kode wisata pada website admin kemudian menginputnya ke dalam tag NFC wisata .
+- Aplikasi android yang digunakan oleh admin untuk memindai kode wisata pada website admin kemudian menginputnya ke dalam tag NFC wisata .
 
--Aplikasi android yang digunakan oleh wisatawan untuk memindai atau membaca kode wisata pada tag NFC wisata untuk menampilkan informasi lengkap dan rute atau lokasi wisata yang ingin dikunjungi.
+- Aplikasi android yang digunakan oleh wisatawan untuk memindai atau membaca kode wisata pada tag NFC wisata untuk menampilkan informasi lengkap dan rute atau lokasi wisata yang ingin dikunjungi.
 
--Menu yang terdapat pada aplikasi admin yaitu scan QRCode wisata, input kode ke tag NFC, baca tag NFC, informasi wisata dan peta atau rute wisata. 
+- Menu yang terdapat pada aplikasi admin yaitu scan QRCode wisata, input kode ke tag NFC, baca tag NFC, informasi wisata dan peta atau rute wisata. 
 
--Menu yang terdapat pada aplikasi wisatawan yaitu baca tag NFC, informasi wisata dan peta atau rute wisata.
+- Menu yang terdapat pada aplikasi wisatawan yaitu baca tag NFC, informasi wisata dan peta atau rute wisata.
 
 ## Teknologi Pembuatan Website Admin
 - Frontend : HTML, CSS, Bootstrap 5
