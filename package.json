@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite build --watch"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.5",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.4.0",
+        "@vue/compiler-core": "^3.0.10",
+        "vue": "^3.4.15",
+        "vue-media-upload": "^2.1.2",
+        "vue-router": "^4.2.5",
+        "vuetify": "^3.5.1"
+    }
+}
