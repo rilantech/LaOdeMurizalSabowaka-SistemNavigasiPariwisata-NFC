@@ -1,7 +1,7 @@
 # LaOdeMurizalSabowaka-SistemNavigasiPariwisata-NFC
 Sistem navigasi pariwisata merupakan sistem yang dapat mempermudah wisatawan dalam mengakses informasi mengenai wisata di karenakan wisatawan hanya melakukan tapping pada tag NFC wisata yang ingin dikunjungi dan pada aplikasi ini terdapat fitur navigasi menggunakan Google Maps untuk menunjukkan peta atau rute secara realtime wisata
 
-# Sistem Yang DiBuat
+## Sistem Yang DiBuat
 1. Website Admin :
 Website CRUD yang digunakan oleh admin untuk mengiput data wisata.
 Menu yang terdapat pada website ini yaitu dashboard, data wisata, kategori wisata dan daftar pengunjung
