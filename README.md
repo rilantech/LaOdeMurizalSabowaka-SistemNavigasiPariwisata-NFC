@@ -7,6 +7,7 @@ Website CRUD yang digunakan oleh admin untuk mengiput data wisata.
 Menu yang terdapat pada website ini yaitu dashboard, data wisata, kategori wisata dan daftar pengunjung
 
 2. Aplikasi Android Admin dan Wisatawan :
+   
 -Aplikasi android yang digunakan oleh admin untuk memindai kode wisata pada website admin kemudian menginputnya ke dalam tag NFC wisata .
 
 -Aplikasi android yang digunakan oleh wisatawan untuk memindai atau membaca kode wisata pada tag NFC wisata untuk menampilkan informasi lengkap dan rute atau lokasi wisata yang ingin dikunjungi.
