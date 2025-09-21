@@ -1,6 +1,0 @@
-package com.google.android.gms.location;
-
-/* compiled from: com.google.android.gms:play-services-location@@21.1.0 */
-public interface DeviceOrientationListener {
-    void onDeviceOrientationChanged(DeviceOrientation deviceOrientation);
-}
