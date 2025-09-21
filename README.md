@@ -25,6 +25,8 @@ Menu yang terdapat pada website ini yaitu dashboard, data wisata, kategori wisat
 ## Teknologi Pembuatan Aplikasi Android
 - Backend : Java
 - Code Editor : IDE Android Studio
+- Google Maps API
+- QRCode
 
 ## Spefikasi Smartphone Untuk Instal Aplikasi Android
 - Sistem Operasi Android 13 (Tiramisu)
