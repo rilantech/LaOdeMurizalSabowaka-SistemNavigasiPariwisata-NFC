@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sweet="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/main" android:padding="14dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Latitude"/>
+        <TextView android:textColor="@color/black" android:id="@+id/lat" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="..." android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Longitude"/>
+        <TextView android:textColor="@color/black" android:id="@+id/longi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="..." android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Altitude"/>
+        <TextView android:textColor="@color/black" android:id="@+id/alti" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="..." android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Akurasi"/>
+        <TextView android:textColor="@color/black" android:id="@+id/akurasi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="..." android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <Button android:textColor="@color/white" android:id="@+id/btn_find" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:text="fIND" android:textAllCaps="true" android:backgroundTint="@color/purple_700"/>
+    <WebView android:id="@+id/webviewku" android:layout_width="match_parent" android:layout_height="700dp"/>
+</LinearLayout>

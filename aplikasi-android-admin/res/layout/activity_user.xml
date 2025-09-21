@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sweet="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/main" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="20dp" android:textColor="@color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:text="DATA USER"/>
+    <TextView android:textColor="@color/black" android:id="@+id/tvNama" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:text="NAMA :"/>
+    <TextView android:textColor="@color/black" android:id="@+id/tvUsername" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:text="USERNAME :"/>
+    <Button android:textColor="@color/white" android:layout_gravity="center" android:id="@+id/btnLogout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:text="logout" android:backgroundTint="@color/purple_700"/>
+</LinearLayout>
