@@ -40,4 +40,4 @@ Sistem navigasi pariwisata merupakan sistem yang dapat mempermudah wisatawan dal
 - Chip : NTAG 213
 
 ## Detail Menu-Menu
-Bisa dilihat di file SistemNafigasiNFC.PDF : https://github.com/rilantech/LaOdeMurizalSabowaka-SistemNavigasiPariwisata-NFC/blob/main/Sistem%20Navigasi%20Pariwisata%20NFC.pdf
+Bisa dilihat di file Sistem Navigasi Pariwisata NFC.PDF : https://github.com/rilantech/LaOdeMurizalSabowaka-SistemNavigasiPariwisata-NFC/blob/main/Sistem%20Navigasi%20Pariwisata%20NFC.pdf
