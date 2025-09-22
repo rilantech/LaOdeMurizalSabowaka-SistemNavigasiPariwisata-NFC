@@ -39,3 +39,5 @@ Sistem navigasi pariwisata merupakan sistem yang dapat mempermudah wisatawan dal
 - Jenis Tag : Read & Write
 - Chip : NTAG 213
 
+## Detail Menu-Menu
+Bisa dilihat di file SistemNafigasiNFC.PDF : 
